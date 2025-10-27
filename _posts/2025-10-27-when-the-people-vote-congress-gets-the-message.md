@@ -5,6 +5,7 @@ author: "Sinto Gra'Ves"
 series: "When the People Speak — From Protest to the Polls"
 series_part: 2
 date: 2025-10-27
+permalink: /when-the-people-vote-congress-gets-the-message/
 categories: [op-ed, democracy, elections, voting, congress]
 description: "Part 2 follows what happens after the rallies. Frustration becomes votes. Votes become turnover. Turnover becomes policy."
 tags: [elections, turnout, accountability]
