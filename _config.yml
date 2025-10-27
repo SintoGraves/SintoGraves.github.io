@@ -21,3 +21,4 @@ defaults:
       layout: post
       author: "Sinto Gra'Ves"
       categories: ["op-ed"]
+future: true
