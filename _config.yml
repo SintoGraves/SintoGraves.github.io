@@ -2,17 +2,18 @@ title: Reason Over Rhetoric
 description: Independent op-eds by Sinto Gra'Ves on government, duty, and civic accountability.
 author: Sinto Gra'Ves
 theme: minima
+url: "https://sintograves.github.io"
+baseurl: ""
 permalink: /:title/
 timezone: America/New_York
+future: true
 
-# Optional: ensures your custom styles load
 include:
   - styles
 
-# Optional: add pages to your top menu
 header_pages:
   - about.md
-  
+
 defaults:
   - scope:
       path: ""
@@ -21,4 +22,3 @@ defaults:
       layout: post
       author: "Sinto Gra'Ves"
       categories: ["op-ed"]
-future: true
