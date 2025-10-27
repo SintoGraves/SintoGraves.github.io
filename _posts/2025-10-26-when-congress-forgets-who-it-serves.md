@@ -5,6 +5,7 @@ author: "Sinto Gra'Ves"
 series: "When the People Speak — From Protest to the Polls"
 series_part: 1
 date: 2025-10-26
+permalink: /when-congress-forgets-who-it-serves/
 categories: [op-ed, democracy, protest, congress]
 description: "Part 1 examines why protests rise when representation fails, and how Congress responds when the public turns up the volume."
 tags: [civic-engagement, accountability, representation]
