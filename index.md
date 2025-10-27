@@ -14,6 +14,6 @@ to weigh words against duty, and ambition against the oath they swore.  Rather t
 Constitution’s intent and the responsibilities it places on those who serve under it.
 
 This project exists to rekindle civic reasoning: to remind citizens that loyalty to the Republic begins with loyalty to truth.  
-Whether addressing Congress’s inertia, executive overreach, or the erosion of public trust, every piece follows a single rule — **think first, speak second.**   
-By reviving reflection, *Reason Over Rhetoric* seeks to make debate once again a public service, not a performance.
-
+Whether addressing Congress’s inertia, executive overreach, or the erosion of public trust, every piece follows a single rule —    
+**think first, speak second.**  By reviving reflection, *Reason Over Rhetoric* seeks to make debate once again a public service, 
+not a performance.
