@@ -48,23 +48,30 @@ Protest is not the end of civic life. It is proof that civic life still breathes
 
 <!-- Series Reference Table -->
 <figure class="table-figure">
-  <img src="{{ '/assets/images/protests-table.png' | relative_url }}"
+  <img src="{{ '/assets/images/Protests.png' | relative_url }}"
        alt="Reference table: protest types, triggers, Congress role, and outcomes"
        style="max-width:100%;height:auto;">
   <figcaption>
     Reference table for the two-part series.
     See
-    <a href="{{ '/when-congress-forgets-who-it-serves' | relative_url }}">Part 1</a>
+    <a href="{{ '/when-congress-forgets-who-it-serves/' | relative_url }}">Part 1</a>
     and
-    <a href="{{ '/when-the-people-vote-congress-gets-the-message' | relative_url }}">Part 2</a>.
+    <a href="{{ '/when-the-people-vote-congress-gets-the-message/' | relative_url }}">Part 2</a>.
   </figcaption>
 </figure>
 
 <div class="series-buttons">
-  <a class="btn" href="{{ '/when-congress-forgets-who-it-serves' | relative_url }}">Read Part 1</a>
-  <a class="btn" href="{{ '/when-the-people-vote-congress-gets-the-message' | relative_url }}">Read Part 2</a>
-  <a class="btn" href="{{ '/assets/images/protests-table.png' | relative_url }}" download>Download Table (PNG)</a>
+  <a class="btn" href="{{ '/when-congress-forgets-who-it-serves/' | relative_url }}">Read Part 1</a>
+  <a class="btn" href="{{ '/when-the-people-vote-congress-gets-the-message/' | relative_url }}">Read Part 2</a>
+  <a class="btn"
+     href="{{ '/assets/images/Protests.png' | relative_url }}"
+     download="Protests.png"
+     target="_blank"
+     rel="noopener noreferrer">
+     Download Table (PNG)
+  </a>
 </div>
+
 
 ## Endnotes
 
