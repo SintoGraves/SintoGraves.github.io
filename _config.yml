@@ -13,6 +13,7 @@ include:
 
 header_pages:
   - about.md
+  - posts.md
 
 defaults:
   - scope:
