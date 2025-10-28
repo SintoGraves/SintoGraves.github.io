@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Reason Over Rhetoric  
-### by Sinto Gra'ves
+### by Sinto Gra'Ves
 
 *Reason Over Rhetoric* is a forum for disciplined thinking in a noisy democracy.  
 Each op-ed challenges readers — and those in power — to weigh words against duty, and ambition against the oath they swore.  
