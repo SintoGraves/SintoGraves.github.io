@@ -7,7 +7,7 @@ categories: [op-ed, congress, governance, bipartisanship]
 description: "How Washington turned cooperation into a campaign label — and what true bipartisanship still looks like."
 ---
 
-## **Bottom Line Up Front**
+## **Bottom Line**
 
 “Bipartisan” is one of the most overused words in Washington.  
 It should mean government working across party lines for the public good.  
@@ -64,7 +64,7 @@ Congress behaves less like a deliberative body and more like a weather pattern �
 
 ---
 
-## **Bottom Line Repeated**
+## **Conclusion**
 
 “Bipartisan” has become a brand, not a behavior.  
 It is a word that signals unity while masking division.  
@@ -72,7 +72,7 @@ Until the House rewards cooperation over control, bipartisanship will remain a c
 
 ---
 
-## **When We Still Work Together**
+## **Is There Still Hope?**
 
 Despite polarization, there are moments when Congress remembers its purpose — to govern for everyone.  
 Across the last decade, a handful of bills proved that when the goal is clear and the benefit national, party lines can blur.  
