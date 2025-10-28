@@ -1,5 +1,5 @@
 # Reason Over Rhetoric  
-### by Sinto Gra'ves  
+### by Sinto Gra'Ves  
 
 ---
 
