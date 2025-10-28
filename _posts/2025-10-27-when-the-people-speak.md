@@ -26,7 +26,7 @@ Part 1 examines the tension between protest and representation. It asks a centra
 The essay reviews recent movements and evaluates Congress’s response — whether as a passive observer or active partner.  
 It closes with a warning: when representatives stop listening, the streets become the nation’s microphone.
 
-**[Read Part 1 →]({{ p1.url | relative_url }})** 
+👉 **[Read Part 1 →]({{ '/when-congress-forgets-who-it-serves/' | relative_url }})**
 
 ---
 
@@ -37,7 +37,7 @@ Part 2 follows what happens *after* the protest signs come down. It explores how
 Using election data and historical examples, it shows that the ballot box remains the people’s most powerful protest.  
 Change may begin in the streets, but it becomes real at the polls.
 
-**[Read Part 2 →]({{ p2.url | relative_url }})**
+👉 **[Read Part 2 →]({{ '/when-the-people-vote-congress-gets-the-message/' | relative_url }})**
 
 ---
 
