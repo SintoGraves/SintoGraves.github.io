@@ -6,6 +6,7 @@ series: "Civic Accountability Series"
 date: 2025-10-27
 categories: [op-ed, democracy, protest, voting, congress]
 description: "A two-part exploration of how protest and participation shape American governance — from the streets to the ballot box."
+series_overview: true
 ---
 
 ## **Series Overview**
