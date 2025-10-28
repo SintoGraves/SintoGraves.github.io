@@ -17,11 +17,16 @@ This project exists to rekindle civic reasoning: to remind citizens that loyalty
    
 ---
 
-### Latest Posts
-{%- assign recent_posts = site.posts | sort: "date" | reverse -%}
-{%- for post in recent_posts limit:10 -%}
+### Latest Series
+{%- assign overviews = site.posts | where: "series_overview", true | sort: "date" | reverse -%}
+{%- if overviews.size > 0 -%}
+{%- for post in overviews limit:10 -%}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%B %-d, %Y" }}
   {%- if post.description %}<br>{{ post.description }}{%- endif %}
 {%- endfor -%}
+{%- else -%}
+_No series overview posts yet._
+{%- endif -%}
+
 
 
