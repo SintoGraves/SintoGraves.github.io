@@ -22,9 +22,10 @@ Below are the images, tables, and charts used throughout current and upcoming op
   <a href="{{ '/when-congress-forgets-who-it-serves/' | relative_url }}">Part 1</a> ·
   <a href="{{ '/when-the-people-vote-congress-gets-the-message/' | relative_url }}">Part 2</a> ·
   <a href="{{ '/assets/images/Protests.png' | relative_url }}"
-     download="Protests.png" target="_blank" rel="noopener noreferrer">
-    Download PNG
-  </a>
+   download="Protests.png"
+   target="_blank"
+   rel="noopener noreferrer">Download PNG</a>
+
 </figcaption>
 </figure>
 
