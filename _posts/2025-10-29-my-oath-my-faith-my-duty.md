@@ -32,7 +32,7 @@ The Founders understood that ambition must counteract ambition. The branches of 
 ---
 
 <div class="cta">
-  <a class="btn" href="https://[YOUR_SUBSTACK_POST_URL" target="_blank" rel="noopener"](https://sintograves.substack.com/p/my-oath-my-faith-my-duty)>
+  <a class="btn" href="https://sintograves.substack.com/p/my-oath-my-faith-my-duty" target="_blank" rel="noopener">
     Continue reading the full essay on Substack →
   </a>
   <div class="cta-sub">Includes the historical sidebar and concluding sections.</div>
