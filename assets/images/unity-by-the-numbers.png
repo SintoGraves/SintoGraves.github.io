@@ -1,0 +1,6 @@
+# from your repo root
+mkdir -p assets/images
+cp /path/to/UnityByTheNumbers.png assets/images/unity-by-the-numbers.png
+git add assets/images/unity-by-the-numbers.png
+git commit -m "Add header image: Unity by the Numbers"
+git push
