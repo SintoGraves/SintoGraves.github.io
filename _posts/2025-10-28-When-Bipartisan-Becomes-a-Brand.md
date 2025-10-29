@@ -5,7 +5,13 @@ author: "Sinto Gra'Ves"
 date: 2025-10-28
 categories: [op-ed, congress, governance, bipartisanship]
 description: "How Washington turned cooperation into a campaign label — and what true bipartisanship still looks like."
+image: /assets/images/unity-by-the-numbers.png
 ---
+
+<p align="center">
+  <img src="{{ '/assets/images/unity-by-the-numbers.png' | relative_url }}" alt="Unity by the Numbers — red and blue groups showing narrow vs broad cooperation" />
+</p>
+<p align="center"><em>Unity by the Numbers</em></p>
 
 ## **Bottom Line**
 
