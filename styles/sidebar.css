@@ -1,0 +1,30 @@
+/* Sidebar box used for historical notes or data tables */
+.sidebar {
+  background: #f5f5f7;             /* Light gray background */
+  border: 1px solid #ddd;          /* Subtle border */
+  padding: 1rem 1.25rem;
+  border-radius: 12px;
+  margin: 1.25rem 0;               /* Spacing above and below */
+}
+
+/* Heading inside the sidebar */
+.sidebar h3 {
+  margin-top: 0;
+}
+
+/* Float the sidebar to the right on large screens */
+@media (min-width: 768px) {
+  .sidebar {
+    float: right;
+    width: 40%;
+    margin-left: 1.25rem;          /* Gap from main text */
+  }
+}
+
+/* Make it full width on phones */
+@media (max-width: 767px) {
+  .sidebar {
+    width: 100%;
+    float: none;
+  }
+}
