@@ -1,0 +1,11 @@
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  border: 1px solid #222;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn:hover { text-decoration: none; }
+.cta { margin-top: 1rem; }
+.cta-sub { font-size: 0.95rem; opacity: 0.8; margin-top: 0.35rem; }
