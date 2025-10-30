@@ -61,3 +61,9 @@ You can contact your members of Congress directly to share your views or ask que
 
 - [Find Your House Representative](https://www.house.gov/representatives/find-your-representative)
 - [Contact Your U.S. Senators](https://www.senate.gov/senators/senators-contact.htm)
+
+---
+
+## 🔗 Read the Full Analysis  
+For sidebars, data tables, and historical comparisons on executive orders, veto overrides, and judicial reversals,  
+read the full version on **Substack** → [Read on Substack](https://sintograves.substack.com/p/which-branch-is-the-strongest)
