@@ -42,7 +42,7 @@ In a republic built on checks and balances, friction is not failure. It is the p
 ### Continue Reading  
 To see the full analysis — including the data visualizations and extended discussion of the Continuing Resolution — visit:  
 📘 **Substack:** [Reason Over Rhetoric — Full Edition](https://sintograves.substack.com/p/the-filibuster-barrier-or-balance)  
-✍️ **Medium:** [Sinto Gra’Ves on Medium](https://medium.com/@sintograves/the-filibuster-barrier-or-balance)  
+
 
 ---
 
